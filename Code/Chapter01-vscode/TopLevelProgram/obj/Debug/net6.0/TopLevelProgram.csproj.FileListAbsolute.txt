@@ -1,0 +1,15 @@
+G:\Programming\Test\CSharp10Net6\Code\Chapter01-vscode\TopLevelProgram\bin\Debug\net6.0\TopLevelProgram.exe
+G:\Programming\Test\CSharp10Net6\Code\Chapter01-vscode\TopLevelProgram\bin\Debug\net6.0\TopLevelProgram.deps.json
+G:\Programming\Test\CSharp10Net6\Code\Chapter01-vscode\TopLevelProgram\bin\Debug\net6.0\TopLevelProgram.runtimeconfig.json
+G:\Programming\Test\CSharp10Net6\Code\Chapter01-vscode\TopLevelProgram\bin\Debug\net6.0\TopLevelProgram.dll
+G:\Programming\Test\CSharp10Net6\Code\Chapter01-vscode\TopLevelProgram\bin\Debug\net6.0\ref\TopLevelProgram.dll
+G:\Programming\Test\CSharp10Net6\Code\Chapter01-vscode\TopLevelProgram\bin\Debug\net6.0\TopLevelProgram.pdb
+G:\Programming\Test\CSharp10Net6\Code\Chapter01-vscode\TopLevelProgram\obj\Debug\net6.0\TopLevelProgram.csproj.AssemblyReference.cache
+G:\Programming\Test\CSharp10Net6\Code\Chapter01-vscode\TopLevelProgram\obj\Debug\net6.0\TopLevelProgram.GeneratedMSBuildEditorConfig.editorconfig
+G:\Programming\Test\CSharp10Net6\Code\Chapter01-vscode\TopLevelProgram\obj\Debug\net6.0\TopLevelProgram.AssemblyInfoInputs.cache
+G:\Programming\Test\CSharp10Net6\Code\Chapter01-vscode\TopLevelProgram\obj\Debug\net6.0\TopLevelProgram.AssemblyInfo.cs
+G:\Programming\Test\CSharp10Net6\Code\Chapter01-vscode\TopLevelProgram\obj\Debug\net6.0\TopLevelProgram.csproj.CoreCompileInputs.cache
+G:\Programming\Test\CSharp10Net6\Code\Chapter01-vscode\TopLevelProgram\obj\Debug\net6.0\TopLevelProgram.dll
+G:\Programming\Test\CSharp10Net6\Code\Chapter01-vscode\TopLevelProgram\obj\Debug\net6.0\ref\TopLevelProgram.dll
+G:\Programming\Test\CSharp10Net6\Code\Chapter01-vscode\TopLevelProgram\obj\Debug\net6.0\TopLevelProgram.pdb
+G:\Programming\Test\CSharp10Net6\Code\Chapter01-vscode\TopLevelProgram\obj\Debug\net6.0\TopLevelProgram.genruntimeconfig.cache
