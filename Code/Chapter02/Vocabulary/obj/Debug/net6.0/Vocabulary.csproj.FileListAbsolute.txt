@@ -1,0 +1,15 @@
+H:\Programming\Test\CSharp10Net6\Code\Chapter02\Vocabulary\obj\Debug\net6.0\Vocabulary.csproj.AssemblyReference.cache
+H:\Programming\Test\CSharp10Net6\Code\Chapter02\Vocabulary\obj\Debug\net6.0\Vocabulary.GeneratedMSBuildEditorConfig.editorconfig
+H:\Programming\Test\CSharp10Net6\Code\Chapter02\Vocabulary\obj\Debug\net6.0\Vocabulary.AssemblyInfoInputs.cache
+H:\Programming\Test\CSharp10Net6\Code\Chapter02\Vocabulary\obj\Debug\net6.0\Vocabulary.AssemblyInfo.cs
+H:\Programming\Test\CSharp10Net6\Code\Chapter02\Vocabulary\obj\Debug\net6.0\Vocabulary.csproj.CoreCompileInputs.cache
+H:\Programming\Test\CSharp10Net6\Code\Chapter02\Vocabulary\bin\Debug\net6.0\Vocabulary.exe
+H:\Programming\Test\CSharp10Net6\Code\Chapter02\Vocabulary\bin\Debug\net6.0\Vocabulary.deps.json
+H:\Programming\Test\CSharp10Net6\Code\Chapter02\Vocabulary\bin\Debug\net6.0\Vocabulary.runtimeconfig.json
+H:\Programming\Test\CSharp10Net6\Code\Chapter02\Vocabulary\bin\Debug\net6.0\Vocabulary.dll
+H:\Programming\Test\CSharp10Net6\Code\Chapter02\Vocabulary\bin\Debug\net6.0\ref\Vocabulary.dll
+H:\Programming\Test\CSharp10Net6\Code\Chapter02\Vocabulary\bin\Debug\net6.0\Vocabulary.pdb
+H:\Programming\Test\CSharp10Net6\Code\Chapter02\Vocabulary\obj\Debug\net6.0\Vocabulary.dll
+H:\Programming\Test\CSharp10Net6\Code\Chapter02\Vocabulary\obj\Debug\net6.0\ref\Vocabulary.dll
+H:\Programming\Test\CSharp10Net6\Code\Chapter02\Vocabulary\obj\Debug\net6.0\Vocabulary.pdb
+H:\Programming\Test\CSharp10Net6\Code\Chapter02\Vocabulary\obj\Debug\net6.0\Vocabulary.genruntimeconfig.cache
