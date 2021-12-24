@@ -1,0 +1,15 @@
+G:\Programming\Test\CSharp10Net6\Tutorial\Code\Chapter03-vscode\Operators\bin\Debug\net6.0\Operators.exe
+G:\Programming\Test\CSharp10Net6\Tutorial\Code\Chapter03-vscode\Operators\bin\Debug\net6.0\Operators.deps.json
+G:\Programming\Test\CSharp10Net6\Tutorial\Code\Chapter03-vscode\Operators\bin\Debug\net6.0\Operators.runtimeconfig.json
+G:\Programming\Test\CSharp10Net6\Tutorial\Code\Chapter03-vscode\Operators\bin\Debug\net6.0\Operators.dll
+G:\Programming\Test\CSharp10Net6\Tutorial\Code\Chapter03-vscode\Operators\bin\Debug\net6.0\ref\Operators.dll
+G:\Programming\Test\CSharp10Net6\Tutorial\Code\Chapter03-vscode\Operators\bin\Debug\net6.0\Operators.pdb
+G:\Programming\Test\CSharp10Net6\Tutorial\Code\Chapter03-vscode\Operators\obj\Debug\net6.0\Operators.csproj.AssemblyReference.cache
+G:\Programming\Test\CSharp10Net6\Tutorial\Code\Chapter03-vscode\Operators\obj\Debug\net6.0\Operators.GeneratedMSBuildEditorConfig.editorconfig
+G:\Programming\Test\CSharp10Net6\Tutorial\Code\Chapter03-vscode\Operators\obj\Debug\net6.0\Operators.AssemblyInfoInputs.cache
+G:\Programming\Test\CSharp10Net6\Tutorial\Code\Chapter03-vscode\Operators\obj\Debug\net6.0\Operators.AssemblyInfo.cs
+G:\Programming\Test\CSharp10Net6\Tutorial\Code\Chapter03-vscode\Operators\obj\Debug\net6.0\Operators.csproj.CoreCompileInputs.cache
+G:\Programming\Test\CSharp10Net6\Tutorial\Code\Chapter03-vscode\Operators\obj\Debug\net6.0\Operators.dll
+G:\Programming\Test\CSharp10Net6\Tutorial\Code\Chapter03-vscode\Operators\obj\Debug\net6.0\ref\Operators.dll
+G:\Programming\Test\CSharp10Net6\Tutorial\Code\Chapter03-vscode\Operators\obj\Debug\net6.0\Operators.pdb
+G:\Programming\Test\CSharp10Net6\Tutorial\Code\Chapter03-vscode\Operators\obj\Debug\net6.0\Operators.genruntimeconfig.cache
