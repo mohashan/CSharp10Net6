@@ -1,0 +1,5 @@
+#!csharp
+
+#error version
+// Get Version Of Framework
+Console.Write(typeof(string).Assembly.ImageRuntimeVersion);

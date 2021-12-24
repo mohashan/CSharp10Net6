@@ -1,17 +1,16 @@
 ﻿using static System.Console;
-if (args.Length < 3)
-{
-    WriteLine("You must specify two colors and cursor size, e.g.");
-    WriteLine("dotnet run red yellow 50");
-    return; // stop running
-}
-ForegroundColor = (ConsoleColor)Enum.Parse(
- enumType: typeof(ConsoleColor),
- value: args[0],
- ignoreCase: true);
-
-BackgroundColor = (ConsoleColor)Enum.Parse(
-    enumType: typeof(ConsoleColor),
-    value: args[1],
-    ignoreCase: true);
-CursorSize = int.Parse(args[2]);
+WriteLine("--------------------------------------------------------------------------------");
+WriteLine("{0,-10}{1,-10}{2,30}{3,30}","Type","Bytes","Min","Max");
+WriteLine("--------------------------------------------------------------------------------");
+WriteLine("{0,-10}{1,-10}{2,30}{3,30}","sbyte",sizeof(sbyte),sbyte.MinValue,sbyte.MaxValue);
+WriteLine("{0,-10}{1,-10}{2,30}{3,30}","byte",sizeof(byte),byte.MinValue,byte.MaxValue);
+WriteLine("{0,-10}{1,-10}{2,30}{3,30}","short",sizeof(short),short.MinValue,short.MaxValue);
+WriteLine("{0,-10}{1,-10}{2,30}{3,30}","ushort",sizeof(ushort),ushort.MinValue,ushort.MaxValue);
+WriteLine("{0,-10}{1,-10}{2,30}{3,30}","int",sizeof(int),int.MinValue,int.MaxValue);
+WriteLine("{0,-10}{1,-10}{2,30}{3,30}","uint",sizeof(uint),uint.MinValue,uint.MaxValue);
+WriteLine("{0,-10}{1,-10}{2,30}{3,30}","long",sizeof(long),long.MinValue,long.MaxValue);
+WriteLine("{0,-10}{1,-10}{2,30}{3,30}","ulong",sizeof(ulong),ulong.MinValue,ulong.MaxValue);
+WriteLine("{0,-10}{1,-10}{2,30}{3,30}","float",sizeof(float),float.MinValue,float.MaxValue);
+WriteLine("{0,-10}{1,-10}{2,30}{3,30}","double",sizeof(double),double.MinValue,double.MaxValue);
+WriteLine("{0,-10}{1,-10}{2,30}{3,30}","decimal",sizeof(decimal),decimal.MinValue,decimal.MaxValue);
+WriteLine("--------------------------------------------------------------------------------");
