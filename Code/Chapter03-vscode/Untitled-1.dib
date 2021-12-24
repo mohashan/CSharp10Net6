@@ -1,15 +1,25 @@
 #!csharp
 
-// allocate array of 128 bytes
-byte[] binaryObject = new byte[128];
-// populate array with random bytes
-(new Random()).NextBytes(binaryObject); 
-WriteLine("Binary Object as bytes:");
-for(int index = 0; index < binaryObject.Length; index++)
+Write("Enter an amount: ");
+string? amount = "132";
+decimal amountValue;
+try
 {
-    Write($"{binaryObject[index]:X} ");
+ amountValue = decimal.Parse(amount);
 }
-WriteLine();
-// convert to Base64 string and output as text
-string encoded = System.Convert.ToBase64String(binaryObject);
-WriteLine($"Binary Object as Base64: {encoded}");
+catch (FormatException) when (amount.Contains("$"))
+{
+ WriteLine("Amounts cannot use the dollar sign!");
+}
+catch (FormatException)
+{
+ WriteLine("Amounts must only contain digits!");
+}
+catch (Exception)
+{
+ WriteLine("An unknown error occurred!");
+}
+finally
+{
+ WriteLine($"{amountValue}");
+}
