@@ -1,25 +1,13 @@
 #!csharp
 
-Write("Enter an amount: ");
-string? amount = "132";
-decimal amountValue;
-try
+checked
 {
- amountValue = decimal.Parse(amount);
-}
-catch (FormatException) when (amount.Contains("$"))
-{
- WriteLine("Amounts cannot use the dollar sign!");
-}
-catch (FormatException)
-{
- WriteLine("Amounts must only contain digits!");
-}
-catch (Exception)
-{
- WriteLine("An unknown error occurred!");
-}
-finally
-{
- WriteLine($"{amountValue}");
+ int x = int.MaxValue - 1; 
+ WriteLine($"Initial value: {x}"); 
+ x++;
+ WriteLine($"After incrementing: {x}"); 
+ x++;
+ WriteLine($"After incrementing: {x}"); 
+ x++;
+ WriteLine($"After incrementing: {x}");
 }
