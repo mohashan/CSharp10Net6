@@ -8,23 +8,23 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\M.Shoorabi\\.nuget\\packages\\": {},
+    "C:\\Users\\Mohashan\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "H:\\Programming\\Test\\CSharp10Net6\\Code\\Chapter02\\Vocabulary\\Vocabulary.csproj",
+      "projectUniqueName": "G:\\Programming\\Test\\CSharp10Net6\\Tutorial\\Code\\Chapter02\\Vocabulary\\Vocabulary.csproj",
       "projectName": "Vocabulary",
-      "projectPath": "H:\\Programming\\Test\\CSharp10Net6\\Code\\Chapter02\\Vocabulary\\Vocabulary.csproj",
-      "packagesPath": "C:\\Users\\M.Shoorabi\\.nuget\\packages\\",
-      "outputPath": "H:\\Programming\\Test\\CSharp10Net6\\Code\\Chapter02\\Vocabulary\\obj\\",
+      "projectPath": "G:\\Programming\\Test\\CSharp10Net6\\Tutorial\\Code\\Chapter02\\Vocabulary\\Vocabulary.csproj",
+      "packagesPath": "C:\\Users\\Mohashan\\.nuget\\packages\\",
+      "outputPath": "G:\\Programming\\Test\\CSharp10Net6\\Tutorial\\Code\\Chapter02\\Vocabulary\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\M.Shoorabi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Mohashan\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
