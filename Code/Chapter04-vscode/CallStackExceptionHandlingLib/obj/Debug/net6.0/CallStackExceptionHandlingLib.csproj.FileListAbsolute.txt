@@ -1,0 +1,12 @@
+G:\Programming\Test\CSharp10Net6\Tutorial\Code\Chapter04-vscode\CallStackExceptionHandlingLib\bin\Debug\net6.0\CallStackExceptionHandlingLib.deps.json
+G:\Programming\Test\CSharp10Net6\Tutorial\Code\Chapter04-vscode\CallStackExceptionHandlingLib\bin\Debug\net6.0\CallStackExceptionHandlingLib.dll
+G:\Programming\Test\CSharp10Net6\Tutorial\Code\Chapter04-vscode\CallStackExceptionHandlingLib\bin\Debug\net6.0\ref\CallStackExceptionHandlingLib.dll
+G:\Programming\Test\CSharp10Net6\Tutorial\Code\Chapter04-vscode\CallStackExceptionHandlingLib\bin\Debug\net6.0\CallStackExceptionHandlingLib.pdb
+G:\Programming\Test\CSharp10Net6\Tutorial\Code\Chapter04-vscode\CallStackExceptionHandlingLib\obj\Debug\net6.0\CallStackExceptionHandlingLib.csproj.AssemblyReference.cache
+G:\Programming\Test\CSharp10Net6\Tutorial\Code\Chapter04-vscode\CallStackExceptionHandlingLib\obj\Debug\net6.0\CallStackExceptionHandlingLib.GeneratedMSBuildEditorConfig.editorconfig
+G:\Programming\Test\CSharp10Net6\Tutorial\Code\Chapter04-vscode\CallStackExceptionHandlingLib\obj\Debug\net6.0\CallStackExceptionHandlingLib.AssemblyInfoInputs.cache
+G:\Programming\Test\CSharp10Net6\Tutorial\Code\Chapter04-vscode\CallStackExceptionHandlingLib\obj\Debug\net6.0\CallStackExceptionHandlingLib.AssemblyInfo.cs
+G:\Programming\Test\CSharp10Net6\Tutorial\Code\Chapter04-vscode\CallStackExceptionHandlingLib\obj\Debug\net6.0\CallStackExceptionHandlingLib.csproj.CoreCompileInputs.cache
+G:\Programming\Test\CSharp10Net6\Tutorial\Code\Chapter04-vscode\CallStackExceptionHandlingLib\obj\Debug\net6.0\CallStackExceptionHandlingLib.dll
+G:\Programming\Test\CSharp10Net6\Tutorial\Code\Chapter04-vscode\CallStackExceptionHandlingLib\obj\Debug\net6.0\ref\CallStackExceptionHandlingLib.dll
+G:\Programming\Test\CSharp10Net6\Tutorial\Code\Chapter04-vscode\CallStackExceptionHandlingLib\obj\Debug\net6.0\CallStackExceptionHandlingLib.pdb

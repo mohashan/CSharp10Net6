@@ -8,6 +8,12 @@
 		},
 		{
 			"path": "CalculatorLibUnitTest"
+		},
+		{
+			"path": "CallStackExceptionHandlingLib"
+		},
+		{
+			"path": "CallStackExceptionHandling"
 		}
 	]
 }
