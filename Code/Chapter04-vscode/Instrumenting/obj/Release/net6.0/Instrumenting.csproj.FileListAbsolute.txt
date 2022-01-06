@@ -1,0 +1,15 @@
+G:\Programming\Test\CSharp10Net6\Tutorial\Code\Chapter04-vscode\Instrumenting\bin\Release\net6.0\Instrumenting.exe
+G:\Programming\Test\CSharp10Net6\Tutorial\Code\Chapter04-vscode\Instrumenting\bin\Release\net6.0\Instrumenting.deps.json
+G:\Programming\Test\CSharp10Net6\Tutorial\Code\Chapter04-vscode\Instrumenting\bin\Release\net6.0\Instrumenting.runtimeconfig.json
+G:\Programming\Test\CSharp10Net6\Tutorial\Code\Chapter04-vscode\Instrumenting\bin\Release\net6.0\Instrumenting.dll
+G:\Programming\Test\CSharp10Net6\Tutorial\Code\Chapter04-vscode\Instrumenting\bin\Release\net6.0\ref\Instrumenting.dll
+G:\Programming\Test\CSharp10Net6\Tutorial\Code\Chapter04-vscode\Instrumenting\bin\Release\net6.0\Instrumenting.pdb
+G:\Programming\Test\CSharp10Net6\Tutorial\Code\Chapter04-vscode\Instrumenting\obj\Release\net6.0\Instrumenting.csproj.AssemblyReference.cache
+G:\Programming\Test\CSharp10Net6\Tutorial\Code\Chapter04-vscode\Instrumenting\obj\Release\net6.0\Instrumenting.GeneratedMSBuildEditorConfig.editorconfig
+G:\Programming\Test\CSharp10Net6\Tutorial\Code\Chapter04-vscode\Instrumenting\obj\Release\net6.0\Instrumenting.AssemblyInfoInputs.cache
+G:\Programming\Test\CSharp10Net6\Tutorial\Code\Chapter04-vscode\Instrumenting\obj\Release\net6.0\Instrumenting.AssemblyInfo.cs
+G:\Programming\Test\CSharp10Net6\Tutorial\Code\Chapter04-vscode\Instrumenting\obj\Release\net6.0\Instrumenting.csproj.CoreCompileInputs.cache
+G:\Programming\Test\CSharp10Net6\Tutorial\Code\Chapter04-vscode\Instrumenting\obj\Release\net6.0\Instrumenting.dll
+G:\Programming\Test\CSharp10Net6\Tutorial\Code\Chapter04-vscode\Instrumenting\obj\Release\net6.0\ref\Instrumenting.dll
+G:\Programming\Test\CSharp10Net6\Tutorial\Code\Chapter04-vscode\Instrumenting\obj\Release\net6.0\Instrumenting.pdb
+G:\Programming\Test\CSharp10Net6\Tutorial\Code\Chapter04-vscode\Instrumenting\obj\Release\net6.0\Instrumenting.genruntimeconfig.cache
