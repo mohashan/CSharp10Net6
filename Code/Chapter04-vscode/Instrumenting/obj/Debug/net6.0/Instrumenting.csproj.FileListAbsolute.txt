@@ -13,3 +13,13 @@ G:\Programming\Test\CSharp10Net6\Tutorial\Code\Chapter04-vscode\Instrumenting\ob
 G:\Programming\Test\CSharp10Net6\Tutorial\Code\Chapter04-vscode\Instrumenting\obj\Debug\net6.0\ref\Instrumenting.dll
 G:\Programming\Test\CSharp10Net6\Tutorial\Code\Chapter04-vscode\Instrumenting\obj\Debug\net6.0\Instrumenting.pdb
 G:\Programming\Test\CSharp10Net6\Tutorial\Code\Chapter04-vscode\Instrumenting\obj\Debug\net6.0\Instrumenting.genruntimeconfig.cache
+G:\Programming\Test\CSharp10Net6\Tutorial\Code\Chapter04-vscode\Instrumenting\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+G:\Programming\Test\CSharp10Net6\Tutorial\Code\Chapter04-vscode\Instrumenting\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+G:\Programming\Test\CSharp10Net6\Tutorial\Code\Chapter04-vscode\Instrumenting\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+G:\Programming\Test\CSharp10Net6\Tutorial\Code\Chapter04-vscode\Instrumenting\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+G:\Programming\Test\CSharp10Net6\Tutorial\Code\Chapter04-vscode\Instrumenting\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+G:\Programming\Test\CSharp10Net6\Tutorial\Code\Chapter04-vscode\Instrumenting\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+G:\Programming\Test\CSharp10Net6\Tutorial\Code\Chapter04-vscode\Instrumenting\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+G:\Programming\Test\CSharp10Net6\Tutorial\Code\Chapter04-vscode\Instrumenting\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+G:\Programming\Test\CSharp10Net6\Tutorial\Code\Chapter04-vscode\Instrumenting\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+G:\Programming\Test\CSharp10Net6\Tutorial\Code\Chapter04-vscode\Instrumenting\obj\Debug\net6.0\Instrumenting.csproj.CopyComplete

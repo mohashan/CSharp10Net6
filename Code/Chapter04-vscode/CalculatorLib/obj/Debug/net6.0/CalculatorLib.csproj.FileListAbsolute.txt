@@ -1,0 +1,12 @@
+G:\Programming\Test\CSharp10Net6\Tutorial\Code\Chapter04-vscode\CalculatorLib\bin\Debug\net6.0\CalculatorLib.deps.json
+G:\Programming\Test\CSharp10Net6\Tutorial\Code\Chapter04-vscode\CalculatorLib\bin\Debug\net6.0\CalculatorLib.dll
+G:\Programming\Test\CSharp10Net6\Tutorial\Code\Chapter04-vscode\CalculatorLib\bin\Debug\net6.0\ref\CalculatorLib.dll
+G:\Programming\Test\CSharp10Net6\Tutorial\Code\Chapter04-vscode\CalculatorLib\bin\Debug\net6.0\CalculatorLib.pdb
+G:\Programming\Test\CSharp10Net6\Tutorial\Code\Chapter04-vscode\CalculatorLib\obj\Debug\net6.0\CalculatorLib.csproj.AssemblyReference.cache
+G:\Programming\Test\CSharp10Net6\Tutorial\Code\Chapter04-vscode\CalculatorLib\obj\Debug\net6.0\CalculatorLib.GeneratedMSBuildEditorConfig.editorconfig
+G:\Programming\Test\CSharp10Net6\Tutorial\Code\Chapter04-vscode\CalculatorLib\obj\Debug\net6.0\CalculatorLib.AssemblyInfoInputs.cache
+G:\Programming\Test\CSharp10Net6\Tutorial\Code\Chapter04-vscode\CalculatorLib\obj\Debug\net6.0\CalculatorLib.AssemblyInfo.cs
+G:\Programming\Test\CSharp10Net6\Tutorial\Code\Chapter04-vscode\CalculatorLib\obj\Debug\net6.0\CalculatorLib.csproj.CoreCompileInputs.cache
+G:\Programming\Test\CSharp10Net6\Tutorial\Code\Chapter04-vscode\CalculatorLib\obj\Debug\net6.0\CalculatorLib.dll
+G:\Programming\Test\CSharp10Net6\Tutorial\Code\Chapter04-vscode\CalculatorLib\obj\Debug\net6.0\ref\CalculatorLib.dll
+G:\Programming\Test\CSharp10Net6\Tutorial\Code\Chapter04-vscode\CalculatorLib\obj\Debug\net6.0\CalculatorLib.pdb
