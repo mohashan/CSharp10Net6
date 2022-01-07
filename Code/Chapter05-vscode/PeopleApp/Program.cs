@@ -39,3 +39,11 @@ var (name1, dob1) = bob;
 WriteLine($"Deconstructed: {name1}, {dob1}");
 var (name2, dob2, fav2) = bob;
 WriteLine($"Deconstructed: {name2}, {dob2}, {fav2}");
+
+int a = 10; 
+int b = 20; 
+int c = 30;
+
+WriteLine($"Before: a = {a}, b = {b}, c = {c}"); 
+bob.PassingParameters(a, ref b, out c); 
+WriteLine($"After: a = {a}, b = {b}, c = {c}");
