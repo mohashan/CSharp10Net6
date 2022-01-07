@@ -4,11 +4,19 @@ WriteLine("In Main");
 Alpha();
 static void Alpha()
 {
- WriteLine("In Alpha");
- Beta();
+    WriteLine("In Alpha");
+    Beta();
 }
 static void Beta()
 {
- WriteLine("In Beta");
- Calculator.Gamma();
+    WriteLine("In Beta");
+    try
+    {
+        Calculator.Gamma();
+    }
+    catch (Exception ex)
+    {
+        WriteLine($"Caught this: {ex.Message}");
+        throw;
+    }
 }
