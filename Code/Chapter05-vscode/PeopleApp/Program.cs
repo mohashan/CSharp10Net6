@@ -15,3 +15,8 @@ gerrierAccount.Balance = 98;
 WriteLine(format: "{0} earned {1:C} interest.",
  arg0: gerrierAccount.AccountName,
  arg1: gerrierAccount.Balance * BankAccount.InterestRate);
+ var bob = new Person{
+     Name = "bob smith",
+ };
+ WriteLine($"{bob.Name} is a {Person.Species}");
+
