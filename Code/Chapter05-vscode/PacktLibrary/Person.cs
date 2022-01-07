@@ -16,9 +16,9 @@ namespace Packt.Shared
         public string Name { get; set; }
         public DateTime DateOfBirth { get; set; }
 
-        public (string, int) GetFruit()
+        public (string Name, int Number) GetNamedFruit()
         {
-            return ("Apples", 5);
+            return (Name: "Apples", Number: 5);
         }
     }
 }
