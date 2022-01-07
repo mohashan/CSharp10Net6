@@ -2,13 +2,16 @@
 using System;
 using static System.Console;
 
-Person bob = new();
-bob.Name = "Bob Smith";
-bob.DateOfBirth = new DateTime(1965, 12, 22);
-bob.BucketList = WondersOfTheAncientWorld.StatueOfZeusAtOlympia | WondersOfTheAncientWorld.LighthouseOfAlexandria;
-
-WriteLine(
- format: "{0}'s favorite wonder is {1}. Its integer is {2}.",
- arg0: bob.Name,
- arg1: bob.BucketList,
- arg2: (int)bob.BucketList);
+BankAccount.InterestRate = 0.012M; // store a shared value
+BankAccount jonesAccount = new(); // C# 9.0 and later
+jonesAccount.AccountName = "Mrs. Jones"; 
+jonesAccount.Balance = 2400;
+WriteLine(format: "{0} earned {1:C} interest.",
+ arg0: jonesAccount.AccountName,
+ arg1: jonesAccount.Balance * BankAccount.InterestRate);
+BankAccount gerrierAccount = new(); 
+gerrierAccount.AccountName = "Ms. Gerrier"; 
+gerrierAccount.Balance = 98;
+WriteLine(format: "{0} earned {1:C} interest.",
+ arg0: gerrierAccount.AccountName,
+ arg1: gerrierAccount.Balance * BankAccount.InterestRate);
