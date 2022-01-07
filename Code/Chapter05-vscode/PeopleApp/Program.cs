@@ -18,5 +18,5 @@ WriteLine(format: "{0} earned {1:C} interest.",
  var bob = new Person{
      Name = "bob smith",
  };
- WriteLine($"{bob.Name} is a {Person.Species}");
+ WriteLine($"{bob.Name} is a {Person.Species} and his home planet is {bob.HomePlanet}.");
 
