@@ -2,7 +2,8 @@ using System;
 using System.Collections.Generic;
 using static System.Console;
 
-namespace Packt.Shared{
+namespace Packt.Shared
+{
     public class Person : Object
     {
         public readonly string HomePlanet = "Earth";
@@ -14,5 +15,10 @@ namespace Packt.Shared{
 
         public string Name { get; set; }
         public DateTime DateOfBirth { get; set; }
+
+        public (string, int) GetFruit()
+        {
+            return ("Apples", 5);
+        }
     }
 }

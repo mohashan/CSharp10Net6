@@ -19,4 +19,6 @@ WriteLine(format: "{0} earned {1:C} interest.",
      Name = "bob smith",
  };
  WriteLine($"{bob.Name} is a {Person.Species} and his home planet is {bob.HomePlanet}.");
+ (string, int) fruit = bob.GetFruit();
+WriteLine($"{fruit.Item1}, {fruit.Item2} there are.");
 
