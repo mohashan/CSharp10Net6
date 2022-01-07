@@ -21,6 +21,7 @@ WriteLine(format: "{0} earned {1:C} interest.",
          new Person{ Name = "child 1"},
          new Person{ Name = "child 2"},
      },
+     BucketList = WondersOfTheAncientWorld.HangingGardensOfBabylon | WondersOfTheAncientWorld.LighthouseOfAlexandria,
  };
  WriteLine($"{bob.Name} is a {Person.Species} and his home planet is {bob.HomePlanet}.");
 var fruit = bob.GetNamedFruit();
@@ -33,3 +34,8 @@ WriteLine($"{thing2.Name} has {thing2.Count} children.");
 
 (string fruitName, int fruitNumber) = bob.GetNamedFruit();
 WriteLine($"Deconstructed: {fruitName}, {fruitNumber}");
+
+var (name1, dob1) = bob;
+WriteLine($"Deconstructed: {name1}, {dob1}");
+var (name2, dob2, fav2) = bob;
+WriteLine($"Deconstructed: {name2}, {dob2}, {fav2}");
