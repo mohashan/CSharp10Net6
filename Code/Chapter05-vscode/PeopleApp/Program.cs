@@ -2,48 +2,25 @@
 using System;
 using static System.Console;
 
-BankAccount.InterestRate = 0.012M; // store a shared value
-BankAccount jonesAccount = new(); // C# 9.0 and later
-jonesAccount.AccountName = "Mrs. Jones"; 
-jonesAccount.Balance = 2400;
-WriteLine(format: "{0} earned {1:C} interest.",
- arg0: jonesAccount.AccountName,
- arg1: jonesAccount.Balance * BankAccount.InterestRate);
-BankAccount gerrierAccount = new(); 
-gerrierAccount.AccountName = "Ms. Gerrier"; 
-gerrierAccount.Balance = 98;
-WriteLine(format: "{0} earned {1:C} interest.",
- arg0: gerrierAccount.AccountName,
- arg1: gerrierAccount.Balance * BankAccount.InterestRate);
- var bob = new Person{
-     Name = "bob smith",
-     Children = new List<Person>{
-         new Person{ Name = "child 1"},
-         new Person{ Name = "child 2"},
-     },
-     BucketList = WondersOfTheAncientWorld.HangingGardensOfBabylon | WondersOfTheAncientWorld.LighthouseOfAlexandria,
- };
- WriteLine($"{bob.Name} is a {Person.Species} and his home planet is {bob.HomePlanet}.");
-var fruit = bob.GetNamedFruit();
-WriteLine($"{fruit.Name}, {fruit.Number} there are.");
+object[] passengers = {
+ new FirstClassPassenger { AirMiles = 1_419 },
+ new FirstClassPassenger { AirMiles = 16_562 },
+ new BusinessClassPassenger(),
+ new CoachClassPassenger { CarryOnKG = 25.7 },
+ new CoachClassPassenger { CarryOnKG = 0 },
+};
 
-var thing1 = ("Neville", 4);
-WriteLine($"{thing1.Item1} has {thing1.Item2} children.");
-var thing2 = (bob.Name, bob.Children.Count); 
-WriteLine($"{thing2.Name} has {thing2.Count} children.");
-
-(string fruitName, int fruitNumber) = bob.GetNamedFruit();
-WriteLine($"Deconstructed: {fruitName}, {fruitNumber}");
-
-var (name1, dob1) = bob;
-WriteLine($"Deconstructed: {name1}, {dob1}");
-var (name2, dob2, fav2) = bob;
-WriteLine($"Deconstructed: {name2}, {dob2}, {fav2}");
-
-int a = 10; 
-int b = 20; 
-int c = 30;
-
-WriteLine($"Before: a = {a}, b = {b}, c = {c}"); 
-bob.PassingParameters(a, ref b, out c); 
-WriteLine($"After: a = {a}, b = {b}, c = {c}");
+foreach (object passenger in passengers)
+{
+    decimal flightCost = passenger switch
+    {
+        FirstClassPassenger p when p.AirMiles > 35000 => 1500M,
+        FirstClassPassenger p when p.AirMiles > 15000 => 1750M,
+        FirstClassPassenger _ => 2000M,
+        BusinessClassPassenger _ => 1000M,
+        CoachClassPassenger p when p.CarryOnKG < 10.0 => 500M,
+        CoachClassPassenger _ => 650M,
+        _ => 800M
+    };
+    WriteLine($"Flight costs {flightCost:C} for {passenger}");
+}
