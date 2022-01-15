@@ -1,0 +1,12 @@
+H:\Programming\Test\CSharp10Net6\Code\Chapter06-vscode\PacktLibrary\bin\Debug\net6.0\PacktLibrary.deps.json
+H:\Programming\Test\CSharp10Net6\Code\Chapter06-vscode\PacktLibrary\bin\Debug\net6.0\PacktLibrary.dll
+H:\Programming\Test\CSharp10Net6\Code\Chapter06-vscode\PacktLibrary\bin\Debug\net6.0\ref\PacktLibrary.dll
+H:\Programming\Test\CSharp10Net6\Code\Chapter06-vscode\PacktLibrary\bin\Debug\net6.0\PacktLibrary.pdb
+H:\Programming\Test\CSharp10Net6\Code\Chapter06-vscode\PacktLibrary\obj\Debug\net6.0\PacktLibrary.csproj.AssemblyReference.cache
+H:\Programming\Test\CSharp10Net6\Code\Chapter06-vscode\PacktLibrary\obj\Debug\net6.0\PacktLibrary.GeneratedMSBuildEditorConfig.editorconfig
+H:\Programming\Test\CSharp10Net6\Code\Chapter06-vscode\PacktLibrary\obj\Debug\net6.0\PacktLibrary.AssemblyInfoInputs.cache
+H:\Programming\Test\CSharp10Net6\Code\Chapter06-vscode\PacktLibrary\obj\Debug\net6.0\PacktLibrary.AssemblyInfo.cs
+H:\Programming\Test\CSharp10Net6\Code\Chapter06-vscode\PacktLibrary\obj\Debug\net6.0\PacktLibrary.csproj.CoreCompileInputs.cache
+H:\Programming\Test\CSharp10Net6\Code\Chapter06-vscode\PacktLibrary\obj\Debug\net6.0\PacktLibrary.dll
+H:\Programming\Test\CSharp10Net6\Code\Chapter06-vscode\PacktLibrary\obj\Debug\net6.0\ref\PacktLibrary.dll
+H:\Programming\Test\CSharp10Net6\Code\Chapter06-vscode\PacktLibrary\obj\Debug\net6.0\PacktLibrary.pdb
