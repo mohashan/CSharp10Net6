@@ -47,4 +47,17 @@ public class Person : object
             return localNumber * localFactorial(localNumber - 1);
         }
     }
+    public EventHandler? Shout;
+    public int AngerLevel;
+    public void Poke()
+    {
+        AngerLevel++;
+        if (AngerLevel >= 3)
+        {
+            if (Shout != null)
+            {
+                Shout(this, EventArgs.Empty);
+            }
+        }
+    }
 }
